@@ -33,6 +33,19 @@ Backend
 Databases
 <p> <img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://skillicons.dev/icons?i=supabase" /> <img src="https://skillicons.dev/icons?i=sqlite" /> </p>
 
+## 🎨 Design + Tools
+
+<p> <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://skillicons.dev/icons?i=ps" /> <img src="https://skillicons.dev/icons?i=pr" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p>
+
+## 🌐 Connect with Me
+
+📫 Email: maui.k0806@gmail.com
+🌍 Discord: soso060841243_66920
+
+## 📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?dev-maui0806=dev-maui0806&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-maui0806&theme=tokyonight&hide_border=true" height="160" /> </p>
+
 ## 🧩 Focus Areas
 
 ```yaml
