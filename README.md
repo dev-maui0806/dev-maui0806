@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_pixel_art_banner_in_cyberpunk_and_pixel_art_styl.png" alt="Benjamin Tee Cyberpunk Banner" />
+  <img src="./c7f5c4dd-308c-4c30-aa2c-8522e48c2387.png" alt="Benjamin Tee Cyberpunk Banner" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <strong>Benjamin Tee</strong></h1>
