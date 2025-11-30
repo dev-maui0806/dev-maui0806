@@ -20,6 +20,9 @@ I blend:
 - 🎨 A clean, stylish, slightly cyberpunk aesthetic  
 
 ---
+## 🧠 AI & Automation Stack
+
+<p> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=pytorch" /> <img src="https://skillicons.dev/icons?i=tensorflow" /> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=bash" /> </p>
 
 ## 🧩 Focus Areas
 
