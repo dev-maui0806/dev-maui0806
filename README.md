@@ -24,6 +24,15 @@ I blend:
 
 <p> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=pytorch" /> <img src="https://skillicons.dev/icons?i=tensorflow" /> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=bash" /> </p>
 
+## 💻 Full-Stack Engineering
+
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=vite" /> </p>
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=fastapi" /> </p>
+Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://skillicons.dev/icons?i=supabase" /> <img src="https://skillicons.dev/icons?i=sqlite" /> </p>
+
 ## 🧩 Focus Areas
 
 ```yaml
