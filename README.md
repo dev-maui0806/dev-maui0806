@@ -2,16 +2,16 @@
   <img src="./c7f5c4dd-308c-4c30-aa2c-8522e48c2387.png" alt="Benjamin Tee Cyberpunk Banner" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <strong>Benjamin Tee</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>Colin</strong></h1>
 <p align="center">
-  🇸🇬 Singapore • AI Native • Automation • Full-Stack Developer  
+  SL Sri Lanka • AI Native • Automation • Full-Stack Developer 
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm Benjamin — an AI-native builder from Singapore who loves creating **automated systems**, **intelligent tools**, and **full-stack experiences** that actually solve real problems.
+I'm Colin — an AI-native builder from Singapore who loves creating **automated systems**, **intelligent tools**, and **full-stack experiences** that actually solve real problems.
 
 I blend:
 - 🧠 AI engineering  
