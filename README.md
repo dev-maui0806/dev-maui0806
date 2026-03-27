@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hey, I'm <strong>Colin</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>Srdan</strong></h1>
 <p align="center">
   MT Malta • AI Native • Automation • Full-Stack Developer & Mobile Web expert 
 </p>
