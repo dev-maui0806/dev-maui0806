@@ -46,15 +46,17 @@ Databases
 ## 🧩 Focus Areas
 
 ```yaml
-name: Benjamin Tee
-from: Singapore
+name: Srdam ko
+from: Malta
 roles:
   - AI Native
   - Automation Engineer
   - Full-Stack Developer
+  - Web Mobile Expert
 interests:
   - Autonomous AI agents
   - Workflow automation
+  - Saas Platform Building
   - Full-stack engineering
   - LLM systems
   - Developer tooling
