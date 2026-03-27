@@ -25,7 +25,7 @@ I blend:
 ## 💻 Full-Stack Engineering
 
 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=angularjs" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=vite" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=angular" /> <img src="https://skillicons.dev/icons?i=nextjs" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=vite" /> </p>
 Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=fastapi" /> </p>
 Databases
