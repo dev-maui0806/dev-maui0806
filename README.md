@@ -1,17 +1,15 @@
-<p align="center">
-  //<img src="./c7f5c4dd-308c-4c30-aa2c-8522e48c2387.png" alt="Benjamin Tee Cyberpunk Banner" />
-</p>
+
 
 <h1 align="center">👋 Hey, I'm <strong>Colin</strong></h1>
 <p align="center">
-  SL Sri Lanka • AI Native • Automation • Full-Stack Developer 
+  MT Malta • AI Native • Automation • Full-Stack Developer & Mobile Web expert 
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm Colin — an AI-native builder from Singapore who loves creating **automated systems**, **intelligent tools**, and **full-stack experiences** that actually solve real problems.
+I'm Srdan — an AI-native builder from Malta who loves creating **automated systems**, **intelligent tools**, and **full-stack experiences** that actually solve real problems.
 
 I blend:
 - 🧠 AI engineering  
@@ -40,7 +38,6 @@ Databases
 ## 🌐 Connect with Me
 
 📫 Email: maui.k0806@gmail.com
-🌍 Discord: soso060841243_66920
 
 ## 📊 GitHub Stats
 
